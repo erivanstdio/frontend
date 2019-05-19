@@ -7,7 +7,7 @@ import socket from 'socket.io-client';
 
 import { MdInsertDriveFile } from 'react-icons/md';
 
-import logo from '../../assets/logo.png';
+import logo from '../../assets/MDnome.png';
 import "./styles.css";
 
 // ciclo de vida de um componente: ele eh criado, sofre atualizacoes 

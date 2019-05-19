@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import api from '../../services/api';
 
-import logo from '../../assets/logo.png'
+import logo from '../../assets/MD.png'
 import "./styles.css";
 //  é preciso anotar o valor do input em alguma variavel,
 // pois nao eh como um formulario html. onde havia um action, sera usado o onSumbit.
